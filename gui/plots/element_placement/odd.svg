@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="274.89227mm"
+   height="122.37023mm"
+   viewBox="0 0 274.89227 122.37023"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="odd_gemini.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview57"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.4133688"
+     inkscape:cx="496.8159"
+     inkscape:cy="382.66012"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-19.592739,-9.255503)">
+    <g
+       id="axes"
+       transform="translate(13.799998)">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:1;marker-end:url(#DartArrow)"
+         d="M 143.23887,105.85 V 15.505503"
+         id="axis_y" />
+      <path
+         id="axis_z"
+         style="fill:none;stroke:#000000;stroke-width:1;marker-start:url(#DartArrow);marker-end:url(#DartArrow)"
+         d="m 25.842739,105.85 h 43.499 l 1.54424,-5 4.45576,10 2,-5 H 157.03887 236.736 l 2,5 4.45576,-10 1.54424,5 h 43.499"
+         transform="translate(-13.799998)" />
+      <text
+         xml:space="preserve"
+         id="z_text"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:#000000;stroke:#000000;stroke-width:0.2"
+         x="254.52936"
+         y="-8.291976"><tspan
+           x="268.79874"
+           y="112.93384"
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;stroke-width:0.2"
+             id="tspan1">z</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="y_text"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:#000000;stroke:#000000;stroke-width:0.2"
+         x="134.17958"
+         y="-97.801987"><tspan
+           x="148.31032"
+           y="23.423838"
+           id="tspan4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;stroke-width:0.2"
+             id="tspan3">y</tspan></tspan></text>
+    </g>
+    <g
+       id="items">
+      <g
+         id="item_n">
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:1.7"
+           id="node_n"
+           cx="255.93892"
+           cy="105.85"
+           r="3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.5;marker-end:url(#Triangle)"
+           d="M 255.93908,105.85 281.53735,63.986643"
+           id="r_n" />
+        <text
+           xml:space="preserve"
+           id="a_n"
+           style="font-size:11.2889px;font-family:'Times New Roman';fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="242.10724"
+           y="-3.5651178"><tspan
+             x="255.84531"
+             y="117.03445"
+             id="tspan13"
+             style="font-size:11.2889px;stroke-width:0.2"><tspan
+               style="font-size:11.2889px;text-anchor:middle;stroke-width:0.2"
+               id="tspan11">a</tspan><tspan
+               style="font-size:7.33778px;baseline-shift:sub;stroke-width:0.2"
+               id="tspan59">n</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="r_text_n"
+           style="font-size:11.2889px;font-family:'Times New Roman';fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="271.01733"
+           y="-43.324081"><tspan
+             x="284.99002"
+             y="77.275467"
+             id="tspan16"
+             style="font-size:11.2889px;stroke-width:0.2"><tspan
+               style="font-size:11.2889px;text-anchor:middle;stroke-width:0.2"
+               id="tspan14">r</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan58">n</tspan></tspan></text>
+      </g>
+      <g
+         id="item_2">
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:1.7"
+           id="node_2"
+           cx="217.03888"
+           cy="105.85"
+           r="3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.5;marker-end:url(#Triangle)"
+           d="M 217.03887,105.85 248.57101,54.690388"
+           id="r_2" />
+        <text
+           xml:space="preserve"
+           id="a_2"
+           style="font-size:11.2889px;font-family:'Times New Roman';fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="203.22545"
+           y="-3.5651178"><tspan
+             x="216.96352"
+             y="117.03445"
+             id="tspan7"
+             style="font-size:11.2889px;stroke-width:0.2"><tspan
+               style="font-size:11.2889px;text-anchor:middle;stroke-width:0.2"
+               id="tspan5">a</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan66">2</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="r_text_2"
+           style="font-size:11.2889px;font-family:'Times New Roman';fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="232.05603"
+           y="-43.324081"><tspan
+             x="246.0287"
+             y="77.275467"
+             id="tspan10"
+             style="font-size:11.2889px;stroke-width:0.2"><tspan
+               style="font-size:11.2889px;text-anchor:middle;stroke-width:0.2"
+               id="tspan8">r</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan67">2</tspan></tspan></text>
+      </g>
+      <g
+         id="item_1">
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:1.7"
+           id="node_1"
+           cx="187.03886"
+           cy="105.85"
+           r="3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.5;marker-end:url(#Triangle)"
+           d="M 187.03886,105.85 222.77035,47.4148"
+           id="r_1" />
+        <text
+           xml:space="preserve"
+           id="a_1"
+           style="font-size:11.2889px;font-family:'Times New Roman';fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="173.26855"
+           y="-3.5894146"><tspan
+             x="187.00661"
+             y="117.01012"
+             id="tspan49"
+             style="font-size:11.2889px;stroke-width:0.2"><tspan
+               style="font-size:11.2889px;text-anchor:middle;stroke-width:0.2"
+               id="tspan47">a</tspan><tspan
+               style="font-size:7.33778px;baseline-shift:sub;stroke-width:0.2"
+               id="tspan61">1</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="r_text_1"
+           style="font-size:11.2889px;font-family:'Times New Roman';fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="202.09914"
+           y="-43.348377"><tspan
+             x="216.07181"
+             y="77.251167"
+             id="tspan52"
+             style="font-size:11.2889px;stroke-width:0.2"><tspan
+               style="font-size:11.2889px;text-anchor:middle;stroke-width:0.2"
+               id="tspan50">r</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan44">1</tspan></tspan></text>
+        <g
+           id="arc_theta_1"
+           transform="translate(166.19973)">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1;marker-start:url(#Triangle)"
+             id="arc_curve_1"
+             d="M 30.876088,94.781887 A 15,14.893614 0 0 1 35.839128,105.85" />
+          <text
+             xml:space="preserve"
+             id="theta_text_1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;text-align:center;fill:#000000;stroke:#000000;stroke-width:0.2"
+             x="-114.45424"
+             y="-27.292768"><tspan
+               x="36.074543"
+               y="101.06651"
+               id="tspan53"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2">Ɵ</tspan></text>
+        </g>
+      </g>
+      <g
+         id="item_0">
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:1.7"
+           id="node_0"
+           cx="157.03886"
+           cy="105.85"
+           r="3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.5;marker-end:url(#Triangle)"
+           d="M 157.03887,105.85 197.18248,40.199214"
+           id="r_0" />
+        <text
+           xml:space="preserve"
+           id="a_0"
+           style="font-size:11.2889px;font-family:'Times New Roman';fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="143.25209"
+           y="-3.5651178"><tspan
+             x="156.99016"
+             y="117.03445"
+             id="tspan42"
+             style="font-size:11.2889px;stroke-width:0.2"><tspan
+               style="font-size:11.2889px;text-anchor:middle;stroke-width:0.2"
+               id="tspan40">a</tspan><tspan
+               style="font-size:7.33778px;baseline-shift:sub;stroke-width:0.2"
+               id="tspan62">0</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="r_text_0"
+           style="font-size:11.2889px;font-family:'Times New Roman';fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="172.08267"
+           y="-43.324081"><tspan
+             x="186.05534"
+             y="77.275467"
+             id="tspan45"
+             style="font-size:11.2889px;stroke-width:0.2"><tspan
+               style="font-size:11.2889px;text-anchor:middle;stroke-width:0.2"
+               id="tspan43">r</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan37">0</tspan></tspan></text>
+        <g
+           id="arc_theta_0"
+           transform="translate(136.65478,-0.54346578)">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1;marker-start:url(#Triangle)"
+             id="arc_curve_0"
+             d="M 30.876088,94.781887 A 15,14.893614 0 0 1 35.839128,105.85" />
+          <text
+             xml:space="preserve"
+             id="theta_text_0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;text-align:center;fill:#000000;stroke:#000000;stroke-width:0.2"
+             x="-114.45424"
+             y="-27.292768"><tspan
+               x="36.074543"
+               y="101.06651"
+               id="tspan46"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2">Ɵ</tspan></text>
+        </g>
+      </g>
+      <g
+         id="item_-1">
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:1.7"
+           id="node_-1"
+           cx="127.03887"
+           cy="105.85"
+           r="3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.5;marker-end:url(#Triangle)"
+           d="M 127.04172,105.85 171.55898,32.972774"
+           id="r_-1" />
+        <text
+           xml:space="preserve"
+           id="a_-1"
+           style="font-size:11.2889px;font-family:'Times New Roman';fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="113.31867"
+           y="-3.5651178"><tspan
+             x="126.59857"
+             y="117.03445"
+             id="tspan34"
+             style="font-size:11.2889px;stroke-width:0.2"><tspan
+               style="font-size:11.2889px;text-anchor:middle;stroke-width:0.2"
+               id="tspan31">a</tspan><tspan
+               style="font-size:7.33778px;baseline-shift:sub;stroke-width:0.2"
+               id="tspan63">-1</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="r_text_-1"
+           style="font-size:11.2889px;font-family:'Times New Roman';fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="142.14929"
+           y="-43.324081"><tspan
+             x="155.6638"
+             y="77.275467"
+             id="tspan38"
+             style="font-size:11.2889px;stroke-width:0.2"><tspan
+               style="font-size:11.2889px;text-anchor:middle;stroke-width:0.2"
+               id="tspan35">r</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan36">-1</tspan></tspan></text>
+        <g
+           id="arc_theta_-1"
+           transform="translate(106.20259)">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1;marker-start:url(#Triangle)"
+             id="arc_curve_-1"
+             d="M 30.876088,94.781887 A 15,14.893614 0 0 1 35.839128,105.85" />
+          <text
+             xml:space="preserve"
+             id="theta_text_-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;text-align:center;fill:#000000;stroke:#000000;stroke-width:0.2"
+             x="-114.45424"
+             y="-27.292768"><tspan
+               x="36.074543"
+               y="101.06651"
+               id="tspan39"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2">Ɵ</tspan></text>
+        </g>
+      </g>
+      <g
+         id="item_-2">
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:1.7"
+           id="node_-2"
+           cx="97.039001"
+           cy="105.85"
+           r="3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.5;marker-end:url(#Triangle)"
+           d="M 97.039,105.85 145.90125,25.7383"
+           id="r_-2" />
+        <text
+           xml:space="preserve"
+           id="a_-2"
+           style="font-size:11.2889px;font-family:'Times New Roman';fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="83.310699"
+           y="-3.5894146"><tspan
+             x="96.590599"
+             y="117.01012"
+             id="tspan19"
+             style="font-size:11.2889px;stroke-width:0.2"><tspan
+               style="font-size:11.2889px;text-anchor:middle;stroke-width:0.2"
+               id="tspan17">a</tspan><tspan
+               style="font-size:7.33778px;baseline-shift:sub;stroke-width:0.2"
+               id="tspan64">-2</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="r_text_-2"
+           style="font-size:11.2889px;font-family:'Times New Roman';fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="112.14131"
+           y="-43.348377"><tspan
+             x="125.65582"
+             y="77.251167"
+             id="tspan22"
+             style="font-size:11.2889px;stroke-width:0.2"><tspan
+               style="font-size:11.2889px;text-anchor:middle;stroke-width:0.2"
+               id="tspan20">r</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan29">-2</tspan></tspan></text>
+      </g>
+      <g
+         id="item_-n">
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:1.7"
+           id="node_-n"
+           cx="57.93866"
+           cy="105.65"
+           r="3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.5;marker-end:url(#Triangle)"
+           d="M 57.938825,105.65 111.22269,15.959209"
+           id="r_-n" />
+        <text
+           xml:space="preserve"
+           id="a_-n"
+           style="font-size:11.2889px;font-family:'Times New Roman';fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="44.106945"
+           y="-3.7651153"><tspan
+             x="57.386841"
+             y="116.83447"
+             id="tspan26"
+             style="font-size:11.2889px;stroke-width:0.2"><tspan
+               style="font-size:11.2889px;text-anchor:middle;stroke-width:0.2"
+               id="tspan23">a</tspan><tspan
+               style="font-size:7.33778px;baseline-shift:sub;stroke-width:0.2"
+               id="tspan65">-n</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="r_text_-n"
+           style="font-size:11.2889px;font-family:'Times New Roman';fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="73.017097"
+           y="-43.524075"><tspan
+             x="86.531601"
+             y="77.07547"
+             id="tspan30"
+             style="font-size:11.2889px;stroke-width:0.2"><tspan
+               style="font-size:11.2889px;text-anchor:middle;stroke-width:0.2"
+               id="tspan27">r</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan28">-n</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="dimensions"
+       transform="translate(106.19476,6.3997379)">
+      <g
+         id="dimension_-1"
+         transform="translate(0.210215)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.663906;stroke-dasharray:none"
+           d="m 50.739002,124.726 v -4.45 -4.45"
+           id="dim_-1_tickRight" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.7;stroke-dasharray:none"
+           d="M 20.739002,120.276 H 31.739 m 8,0 h 11.000002"
+           id="dim_-1_line" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.663906;stroke-dasharray:none"
+           d="m 20.819797,115.826 v 4.45 4.45"
+           id="dim_-1_tickLeft" />
+        <text
+           xml:space="preserve"
+           id="dim_-1_text"
+           style="font-size:8.46667px;font-family:'Times New Roman';fill:none;stroke:#000000;stroke-width:0.2"
+           x="22.349653"
+           y="2.5579159"><tspan
+             x="35.663555"
+             y="123.15748"
+             id="tspan55"
+             style="font-size:8.46667px;stroke-width:0.2"><tspan
+               style="font-size:8.46667px;text-anchor:middle;fill:#000000;stroke-width:0.2"
+               id="tspan54">d</tspan></tspan></text>
+      </g>
+      <g
+         id="dimension_1"
+         transform="translate(30.210215)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.663906;stroke-dasharray:none"
+           d="m 50.658207,124.726 v -4.45 -4.45"
+           id="dim_1_tickRight" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.7;stroke-dasharray:none"
+           d="M 20.739002,120.276 H 31.739 m 8,0 h 11.000002"
+           id="dim_1_line" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.663906;stroke-dasharray:none"
+           d="m 20.739002,115.826 v 4.45 4.45"
+           id="dim_1_tickLeft" />
+        <text
+           xml:space="preserve"
+           id="dim_1_text"
+           style="font-size:8.46667px;font-family:'Times New Roman';fill:none;stroke:#000000;stroke-width:0.2"
+           x="22.349653"
+           y="2.5579157"><tspan
+             x="35.663555"
+             y="123.15748"
+             id="tspan57"
+             style="font-size:8.46667px;stroke-width:0.2"><tspan
+               style="font-size:8.46667px;text-anchor:middle;fill:#000000;stroke-width:0.2"
+               id="tspan56">d</tspan></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

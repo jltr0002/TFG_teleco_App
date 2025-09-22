@@ -1,0 +1,12 @@
+{
+  "precision_decimals": 4,
+  "angle_unit_input": "degrees",
+  "angle_unit_rectangular": "degrees",
+  "angle_unit_polar": "degrees",
+  "element_phase_unit": "degrees",
+  "rectangular_scale": "dB",
+  "polar_scale": "dB",
+  "resolution": 5000,
+  "threshold_db": -100.0,
+  "normalize_array_factor": true
+}

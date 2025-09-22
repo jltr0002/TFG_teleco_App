@@ -1,0 +1,35 @@
+{
+  "precision_decimals": 4,
+  "font_size": 9,
+  "angle_unit_input": "radians",
+  "angle_unit_rectangular": "radians",
+  "angle_unit_polar": "radians",
+  "element_phase_unit": "degrees",
+  "rectangular_scale": "linear",
+  "polar_scale": "linear",
+  "resolution": 5000,
+  "threshold_db": -60.0,
+  "normalize_array_factor": true,
+  "last_method": "Schelkunoff",
+  "method_inputs": {
+    "Fourier": {
+      "d_lambda": 0.5,
+      "theta0_angle": 1.5707963267948966,
+      "n_elements": 2,
+      "number_of_beams": "1",
+      "beam_shape": "rectangular",
+      "beam_angles_1": []
+    },
+    "Dolph-Chebyshev": {
+      "d_lambda": 0.5,
+      "theta0_angle": 1.5707963267948966,
+      "n_elements": 2,
+      "sidelobe_level_db": 10.0
+    },
+    "Schelkunoff": {
+      "d_lambda": 0.5,
+      "theta0_angle": 1.5707963267948966,
+      "null_angles": []
+    }
+  }
+}

@@ -1,0 +1,12 @@
+# Ignorar artefactos de compilación de PyInstaller
+dist/
+build/
+*.spec
+
+# Ignorar carpetas de caché de Python
+__pycache__/
+*.pyc
+*.$py.class
+
+# Ignorar el entorno virtual (muy importante)
+.venv/

@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="244.89226mm"
+   height="123.97009mm"
+   viewBox="0 0 244.89226 123.97009"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="even_gemini.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview54"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.44792376"
+     inkscape:cx="472.17857"
+     inkscape:cy="333.76216"
+     inkscape:window-width="1600"
+     inkscape:window-height="811"
+     inkscape:window-x="1911"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-49.592738,-9.255503)">
+    <g
+       id="axes"
+       transform="translate(13.799998)">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linecap:square;marker-end:url(#DartArrow)"
+         d="M 158.23887,105.85 V 15.505503"
+         id="axis_y" />
+      <path
+         id="axis_z"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;marker-start:url(#DartArrow);marker-end:url(#DartArrow)"
+         d="m -20.357134,105.85 h 43.499 l 1.54424,-5 4.45576,10 2,-5 h 64.69713 64.697134 l 2,5 4.45576,-10 1.54424,5 h 43.499"
+         transform="translate(62.399874)" />
+      <text
+         xml:space="preserve"
+         id="z_text"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:#000000;stroke:#000000;stroke-width:0.2"
+         x="254.34401"
+         y="-8.4029579"><tspan
+           x="268.6134"
+           y="112.82284"
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;stroke-width:0.2"
+             id="tspan1">z</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="y_text"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:#000000;stroke:#000000;stroke-width:0.2"
+         x="148.7796"
+         y="-98.96801"><tspan
+           x="162.91032"
+           y="22.257837"
+           id="tspan4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;stroke-width:0.2"
+             id="tspan3">y</tspan></tspan></text>
+    </g>
+    <g
+       id="items">
+      <g
+         id="item_n">
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:1.7"
+           id="node_n"
+           cx="255.93892"
+           cy="105.85"
+           r="3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.5;marker-end:url(#Triangle)"
+           d="M 255.93908,105.85 282.1637,62.901775"
+           id="r_n" />
+        <text
+           xml:space="preserve"
+           id="a_n"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="243.50745"
+           y="-3.2643077"><tspan
+             x="257.24551"
+             y="117.33525"
+             id="tspan13"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;stroke-width:0.2"
+               id="tspan11">a</tspan><tspan
+               style="font-size:7.33778px;baseline-shift:sub;stroke-width:0.2"
+               id="tspan12">n</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="r_text_n"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="271.81732"
+           y="-44.62439"><tspan
+             x="285.78998"
+             y="75.975166"
+             id="tspan16"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;stroke-width:0.2"
+               id="tspan14">r</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan65">n</tspan></tspan></text>
+      </g>
+      <g
+         id="item_2">
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:1.7"
+           id="node_2"
+           cx="217.03888"
+           cy="105.85"
+           r="3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.5;marker-end:url(#Triangle)"
+           d="M 217.03887,105.85 249.82571,52.517182"
+           id="r_2" />
+        <text
+           xml:space="preserve"
+           id="a_2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="204.62566"
+           y="-3.2643077"><tspan
+             x="218.36372"
+             y="117.33525"
+             id="tspan7"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;stroke-width:0.2"
+               id="tspan5">a</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan55">2</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="r_text_2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="232.856"
+           y="-44.62439"><tspan
+             x="246.82867"
+             y="75.975166"
+             id="tspan10"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;stroke-width:0.2"
+               id="tspan8">r</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan64">2</tspan></tspan></text>
+      </g>
+      <g
+         id="item_1">
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:1.7"
+           id="node_1"
+           cx="187.03886"
+           cy="105.85"
+           r="3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.5;marker-end:url(#Triangle)"
+           d="M 187.03886,105.85 224.51682,44.38982"
+           id="r_1" />
+        <text
+           xml:space="preserve"
+           id="a_1"
+           style="font-size:11.2889px;font-family:'Times New Roman';fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="174.66876"
+           y="-3.2886045"><tspan
+             x="188.40681"
+             y="117.31097"
+             id="tspan42"
+             style="font-size:11.2889px;stroke-width:0.2"><tspan
+               style="font-size:11.2889px;text-anchor:middle;stroke-width:0.2"
+               id="tspan40">a</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan56">1</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="r_text_1"
+           style="font-size:11.2889px;font-family:'Times New Roman';fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="202.89909"
+           y="-44.648685"><tspan
+             x="216.87178"
+             y="75.950867"
+             id="tspan45"
+             style="font-size:11.2889px;stroke-width:0.2"><tspan
+               style="font-size:11.2889px;text-anchor:middle;stroke-width:0.2"
+               id="tspan43">r</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan63">1</tspan></tspan></text>
+        <g
+           id="arc_theta_1"
+           transform="translate(166.19973)">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1;marker-start:url(#Triangle)"
+             id="arc_curve_1"
+             d="M 30.876088,94.781887 A 15,14.893614 0 0 1 35.839128,105.85" />
+          <text
+             xml:space="preserve"
+             id="theta_text_1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;text-align:center;fill:#000000;stroke:#000000;stroke-width:0.2"
+             x="-114.25449"
+             y="-26.692312"><tspan
+               x="36.274303"
+               y="101.66698"
+               id="tspan46"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2">Ɵ</tspan></text>
+        </g>
+      </g>
+      <g
+         id="item_-1">
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:1.7"
+           id="node_-1"
+           cx="157.03886"
+           cy="105.85"
+           r="3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.5;marker-start:url(#marker32);marker-end:url(#Triangle)"
+           d="m 157.03886,105.85 42.4522,-69.496625"
+           id="r_-1" />
+        <text
+           xml:space="preserve"
+           id="a_-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="144.71892"
+           y="-3.2643077"><tspan
+             x="157.99881"
+             y="117.33525"
+             id="tspan34"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;stroke-width:0.2"
+               id="tspan31">a</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan57">-1</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="r_text_-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="174.04927"
+           y="-44.62439"><tspan
+             x="187.56378"
+             y="75.975166"
+             id="tspan38"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;stroke-width:0.2"
+               id="tspan35">r</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan62">-1</tspan></tspan></text>
+        <g
+           id="arc_theta_-1"
+           transform="translate(136.65478,-0.54346578)">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1;marker-start:url(#Triangle)"
+             id="arc_curve_-1"
+             d="M 30.876088,94.781887 A 15,14.893614 0 0 1 35.839128,105.85" />
+          <text
+             xml:space="preserve"
+             id="theta_text_-1"
+             style="font-size:8.46667px;font-family:'Times New Roman';text-align:center;fill:#000000;stroke:#000000;stroke-width:0.2"
+             x="-114.25449"
+             y="-26.692312"><tspan
+               x="36.274303"
+               y="101.66698"
+               id="tspan39"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2">Ɵ</tspan></text>
+        </g>
+      </g>
+      <g
+         id="item_-2">
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:1.7"
+           id="node_-2"
+           cx="127.03899"
+           cy="105.85"
+           r="3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.5;marker-end:url(#Triangle)"
+           d="M 127.039,105.85 174.35088,28.280194"
+           id="r_-2" />
+        <text
+           xml:space="preserve"
+           id="a_-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="114.71088"
+           y="-3.2886045"><tspan
+             x="127.99081"
+             y="117.31097"
+             id="tspan19"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;stroke-width:0.2"
+               id="tspan17">a</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan58">-2</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="r_text_-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="144.04132"
+           y="-44.648685"><tspan
+             x="157.55583"
+             y="75.950867"
+             id="tspan22"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;stroke-width:0.2"
+               id="tspan20">r</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan61">-2</tspan></tspan></text>
+      </g>
+      <g
+         id="item_-n">
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:1.7"
+           id="node_-n"
+           cx="87.938652"
+           cy="105.65"
+           r="3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.5;marker-end:url(#Triangle)"
+           d="M 87.938821,105.65 140.38321,17.372266"
+           id="r_-n" />
+        <text
+           xml:space="preserve"
+           id="a_-n"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="75.507103"
+           y="-3.4643047"><tspan
+             x="88.787003"
+             y="117.13525"
+             id="tspan26"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;stroke-width:0.2"
+               id="tspan23">a</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan59">-n</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="r_text_-n"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:#000000;stroke:#000000;stroke-width:0.2"
+           x="104.91702"
+           y="-44.824383"><tspan
+             x="118.43157"
+             y="75.775169"
+             id="tspan30"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;stroke-width:0.2"
+               id="tspan27">r</tspan><tspan
+               style="font-size:65%;baseline-shift:sub"
+               id="tspan60">-n</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="dimensions"
+       transform="translate(106.19476,8.499587)">
+      <g
+         id="dimension_2"
+         transform="translate(60.105111)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.850405;stroke-dasharray:none"
+           d="m 50.663799,124.726 v -4.45 -4.45"
+           id="dim_2_tickRight" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;marker-start:url(#marker54);marker-end:url(#ArrowWide)"
+           d="M 20.739002,120.276 H 31.739 m 8,0 h 11.000002"
+           id="dim_2_line" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.850405;stroke-dasharray:none"
+           d="m 20.814205,115.826 v 4.45 4.45"
+           id="dim_2_tickLeft" />
+        <text
+           xml:space="preserve"
+           id="dim_2_text"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:none;stroke:#000000;stroke-width:0.2"
+           x="22.349653"
+           y="1.1171761"><tspan
+             x="35.663555"
+             y="121.71674"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2"
+             id="tspan50"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;fill:#000000;stroke-width:0.2"
+               id="tspan49">d</tspan></tspan></text>
+      </g>
+      <g
+         id="dimension_1"
+         transform="matrix(0.49845406,0,0,1.0096859,55.553051,-1.1649813)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.19187;stroke-dasharray:none"
+           d="M 50.636426,124.68331 V 120.276 115.86869"
+           id="dim_1_tickRight" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.986716;stroke-dasharray:none;marker-start:url(#marker54);marker-end:url(#ArrowWide)"
+           d="m 20.739002,120.276 h 1.971069 m 25.855943,0 h 2.172988"
+           id="dim_1_line"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.19187;stroke-dasharray:none"
+           d="m 20.841578,115.86869 v 4.40731 4.40731"
+           id="dim_1_tickLeft" />
+        <text
+           xml:space="preserve"
+           transform="scale(1.423248,0.70261825)"
+           id="dim_1_text"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9346px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:none;stroke:#000000;stroke-width:0.281919"
+           x="8.689208"
+           y="3.216923"><tspan
+             x="25.135641"
+             y="173.21344"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9346px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.281919"
+             id="tspan52"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9346px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;fill:#000000;stroke-width:0.281919"
+               id="tspan51">d/2</tspan></tspan></text>
+      </g>
+      <g
+         id="dimension_-1"
+         transform="matrix(0.49845406,0,0,1.0096859,40.556499,-1.1950076)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.19187;stroke-dasharray:none"
+           d="m 50.636426,124.71305 v -4.40731 -4.40731"
+           id="dim_-1_tickRight" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.986716;stroke-dasharray:none;marker-start:url(#marker54);marker-end:url(#ArrowWide)"
+           d="m 20.739002,120.276 h 1.771556 m 26.257184,0 h 1.97126"
+           id="dim_-1_line"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.19187;stroke-dasharray:none"
+           d="m 20.841578,115.89843 v 4.40731 4.40731"
+           id="dim_-1_tickLeft" />
+        <text
+           xml:space="preserve"
+           transform="scale(1.423248,0.70261824)"
+           id="dim_-1_text"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9346px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:none;stroke:#000000;stroke-width:0.281919"
+           x="8.689208"
+           y="3.2169127"><tspan
+             x="25.135641"
+             y="173.21342"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9346px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.281919"
+             id="tspan54"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9346px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;fill:#000000;stroke-width:0.281919"
+               id="tspan53">d/2</tspan></tspan></text>
+      </g>
+      <g
+         id="dimension_-2">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.850405;stroke-dasharray:none"
+           d="m 50.663799,124.726 v -4.45 -4.45"
+           id="dim_-2_tickRight" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.7;stroke-dasharray:none;marker-start:url(#marker54);marker-end:url(#ArrowWide)"
+           d="M 20.739002,120.276 H 31.739 m 8,0 h 11.000002"
+           id="dim_-2_line" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.850405;stroke-dasharray:none"
+           d="m 20.814205,115.826 v 4.45 4.45"
+           id="dim_-2_tickLeft" />
+        <text
+           xml:space="preserve"
+           id="dim_-2_text"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;fill:none;stroke:#000000;stroke-width:0.2"
+           x="22.349653"
+           y="1.1171818"><tspan
+             x="35.663555"
+             y="121.71674"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:0.2"
+             id="tspan48"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:System-ui;-inkscape-font-specification:System-ui;text-anchor:middle;fill:#000000;stroke-width:0.2"
+               id="tspan47">d</tspan></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
